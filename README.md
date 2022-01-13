@@ -1,2 +1,2 @@
 # c-collections
-List of exercise written in c
+List of exercises written in c
